@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 node_modules/
+=======
+# IDE
+.idea
+.vscode
+
+# Node
+node_modules
+
+# MacOS
+.DS_Store
+
+# Generated files
+backstop_data
+dist
+.cache
+.parcel-cache
+>>>>>>> d860317f5a95cc124cc56ba1db1660b4c3e2257f
